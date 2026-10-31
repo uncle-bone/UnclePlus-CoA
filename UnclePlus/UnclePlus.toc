@@ -1,0 +1,22 @@
+## Interface: 30300
+## Title: UnclePlus
+## Author: Uncle Bone
+## Version: 1.0.0
+## X-Flavor: Wrath
+## Notes: UnclePlus shared media and WeakAuras utilities for Conquest Reborn.
+## IconTexture: Interface\AddOns\UnclePlus\Media\icons\UncleBoneui_logo_2
+## SavedVariables: UnclePlusSaved
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Dependencies: WeakAuras
+
+libs\libs.xml
+Localizations\locales_addon.lua
+UnclePlus.lua
+Media\LoadMedia.lua
+Options.lua
+Functions\functions.lua
+Functions\roles.lua
+WeakAuras_API\WeakAuras_API.xml
+Data\Wrath_FoodAndDrinkData.lua

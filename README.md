@@ -1,2 +1,3 @@
-# Merfin-CoA
-Merfin CoA for Conquest Reborn
+# UnclePlus-CoA
+
+UnclePlus addon package for Conquest Reborn.
