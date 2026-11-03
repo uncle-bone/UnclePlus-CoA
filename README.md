@@ -1,5 +1,6 @@
 # UnclePlus-CoA
 
-> **[Download](https://github.com/uncle-bone/UnclePlus-CoA/releases/latest)**
+> **[Download Here!](https://coa-research.unclebone.workers.dev/download/UnclePlus-CoA)**
+**Current stable release: v1.0.0-CR-Test.**
 
 UnclePlus addon package for Conquest Reborn.
